@@ -16,7 +16,7 @@ AI-powered chatbots leverage machine learning and natural language processing (N
 | -- | -- |
 | Communicates via written text messages | Interacts with users through voice recognition |
 | Used in customer support, online assistants | Found in virtual assistants like Siri and Alexa |
-| Example: ChatGPT | Example: Google Assistant |
+| ![ChatGPT](https://cdnweb01.wikitree.co.kr/webdata/editor/202412/12/img_20241212100254_e70d89de.webp) | ![Google Assistant](https://cdn.aitimes.com/news/photo/202308/152714_162866_1610.jpg) |
 
 ---
 
