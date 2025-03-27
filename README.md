@@ -1,12 +1,5 @@
 # Assignments
-```markdown
-<style>
-img {
-    max-width: 400px;
-    height: auto;
-}
-</style>
-```
+
 ## Concepts of Chatbot  
 ### 1. Rule-based Chatbot  
 **Rule-based**  
