@@ -23,7 +23,7 @@
 |  | **Goal-oriented Chatbot** | **Open-domain Chatbot** | **Relationship-oriented Chatbot** |
 | --- | --- | --- | --- |
 | **Characteristics** | - Task execution and Q&A <br> - Limited to a specific topic | - Conversation itself is the main goal <br> - Covers a wide range of topics | - Focuses on building close relationships <br> - Engages in casual, friendly conversations |
-| **Examples** | Siri, Google Assistant | ChatGPT | Replika, Kuki |
+| **Examples** | Siri, Google Assistant | ChatGPT | Replika, Zeta |
 
 
 ## Experience of Chatbot  
