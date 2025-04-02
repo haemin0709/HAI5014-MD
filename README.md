@@ -1,6 +1,6 @@
 # Good Chatbots vs. Bad Chatbots
 
-![AI-Generated Header](https://github.com/user-attachments/assets/2ca5513c-7f24-472c-9131-2d1252306ea1)
+![AI-Generated Header](https://github.com/user-attachments/assets/b446802f-4dd1-4b2b-ada4-cce72f8c17c8)
 
 ## Table of Contents
 
