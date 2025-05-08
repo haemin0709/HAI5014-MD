@@ -23,8 +23,7 @@ However, Modern chatbots use AI technologies like natural language processing (N
 ---
 
 ## 1. Types of Chatbots
-✓ The classification below is based on [Scatter Lab’s AI Ethics site](https://ethics.scatterlab.co.kr/).
-✓ It is neither an academic framework nor a mutually exclusive categorization, but rather a practical grouping that reflects recent trends.
+✓ The classification below is based on [Scatter Lab’s AI Ethics site](https://ethics.scatterlab.co.kr/). It is neither an academic framework nor a mutually exclusive categorization, but rather a practical grouping that reflects recent trends.
 
 |                | **Goal-Oriented Chatbot**                                                                                        | **Open-Domain Chatbot**                                                           | **Relationship-Oriented Chatbot**                                                              |
 | -------------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
