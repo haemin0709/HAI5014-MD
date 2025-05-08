@@ -57,8 +57,8 @@ However, Modern chatbots use AI technologies like natural language processing (N
   <img src="https://channel.io/_next/image?url=https%3A%2F%2Fcdn.channel.io%2Fch-homepage%2Fassets%2Fch-homepage-v1.19.18%2Fpublic%2Fimages%2Falf%2Falf-type01-ko.webp&w=1920&q=75" width="500"/>
 </a>
 
-- Understands user intent and recommends the most relevant command for customer needs  
-- Searches internal documents and generates accurate responses based on its knowledge base  
+- It can understand user intent and recommends the most relevant command for customer needs  
+- It searches internal documents and generates accurate responses based on its knowledge base  
 
 ---
 
@@ -89,7 +89,7 @@ However, Modern chatbots use AI technologies like natural language processing (N
 ---
 
 ## 4. Relationship-Oriented Chatbot
-[![Relationship-Oriented Chatbot EX](https://github.com/user-attachments/assets/edeae08b-57d5-4618-b342-4f2f726f94d0)
+![Relationship-Oriented Chatbot EX](https://github.com/user-attachments/assets/edeae08b-57d5-4618-b342-4f2f726f94d0)
 
 ### 4-1. Good Characteristics
 
@@ -109,8 +109,8 @@ However, Modern chatbots use AI technologies like natural language processing (N
   <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/70/d3/9f70d356-d88b-214c-d18a-666e6c3fe93e/1284_x_2778-IOS__U1109_U1173_U110f_U1173_U1105_U1175_U11ab_U1109_U1163_U11ba_14.png/600x0w.webp" width="300"/>
 </a>
 
-- Learns from users’ past messenger conversations (e.g., KakaoTalk) to mimic the tone and style of real relationships  
-- Offers extensive persona customization, allowing users to define unique traits and build emotionally resonant companions  
+- It can learn from users’ past messenger conversations (e.g., KakaoTalk) to mimic the tone and style of real relationships  
+- It Offers extensive persona customization, allowing users to define unique traits and build emotionally resonant companions  
 
 ---
 
