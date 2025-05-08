@@ -57,7 +57,7 @@ However, Modern chatbots use AI technologies like natural language processing (N
   <img src="https://channel.io/_next/image?url=https%3A%2F%2Fcdn.channel.io%2Fch-homepage%2Fassets%2Fch-homepage-v1.19.18%2Fpublic%2Fimages%2Falf%2Falf-type01-ko.webp&w=1920&q=75" width="500"/>
 </a>
 
-- It can understand user intent and recommends the most relevant command for customer needs  
+- It can understand user intent and recommend the most relevant command for customer needs  
 - It searches internal documents and generates accurate responses based on its knowledge base  
 
 ---
