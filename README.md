@@ -14,7 +14,7 @@
 
 ## 0. What is a Chatbot?
 _IBM, 2024_
-> A chatbot is a computer program that simulates conversation with users through text or voice. Early chatbots followed simple rules and could only respond to predefined questions.
+> A chatbot is a computer program that simulates conversation with users through text (or voice). Early chatbots followed simple rules and could only respond to predefined questions.
 However, Modern chatbots use AI technologies like natural language processing (NLP) and machine learning to understand user intent and generate natural responses.
 >
 
