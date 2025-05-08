@@ -18,7 +18,7 @@ _IBM, 2024_
 However, Modern chatbots use AI technologies like natural language processing (NLP) and machine learning to understand user intent and generate natural responses.
 >
 
-➡️  _**The criteria for determining whether a chatbot is good or bad vary by type.**_
+➡️  _**Before discussing what makes a chatbot good or bad, it is important to understand the different types of chatbots—because the criteria for evaluation often depend on the chatbot’s primary purpose.**_
 
 ---
 
