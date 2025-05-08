@@ -40,17 +40,17 @@ However, Modern chatbots use AI technologies like natural language processing (N
 ## 2. Goal-Oriented Chatbot
 ![Goal-Oriented Chatbot EX](https://github.com/user-attachments/assets/bf75408d-bd17-43d8-b290-085ce403ed3d)
 
-### Good Characteristics
+### 2-1. Good Characteristics
 
 - **Accuracy:** Provides precise and relevant responses to user queries  
 - **Efficiency:** Completes tasks quickly and minimizes user effort  
 
-### Bad Characteristics
+### 2-2. Bad Characteristics
 
 - **Lack of Flexibility:** Struggles with handling unexpected or off-topic inputs  
 - **Robotic Interaction:** Lacks natural conversation flow and engagement
 
-### Real-World Case
+### 2-3. Real-World Case
 🔷 **[ChannelTalk](https://channel.io/ko/alf)**
 - A customer service chatbot platform designed to automate business communication in a task-focused environment.
 
@@ -66,18 +66,18 @@ However, Modern chatbots use AI technologies like natural language processing (N
 ## 3. Open-Domain Chatbot
 ![Open-Domain Chatbot EX](https://github.com/user-attachments/assets/ea8a1caa-0730-4e90-a79a-f7bcdeca391d)
 
-### Good Characteristics
+### 3-1. Good Characteristics
 
 - **Conversational Depth:** Capable of engaging in natural and in-depth conversations across diverse topics  
 - **Creativity:** Able to generate new ideas, expressions, and perspectives freely  
 
-### Bad Characteristics
+### 3-2. Bad Characteristics
 
 - **Inaccuracy:** May provide information that is incorrect or misleading  
 - **Context Loss:** Tends to lose track of context and coherence in extended conversations  
 
-### Real-World Case  
-🔷 **[ChatGPT](https://openai.com/chatgpt)**
+### 3-3. Real-World Case  
+🔷 **[ChatGPT](https://openai.com/index/chatgpt/)**
 - ChatGPT is a sibling model to InstructGPT⁠, which is trained to follow an instruction in a prompt and provide a detailed response.
 
 <a href="https://openai.com/chatgpt">
@@ -92,17 +92,17 @@ However, Modern chatbots use AI technologies like natural language processing (N
 ## 4. Relationship-Oriented Chatbot
 [![Relationship-Oriented Chatbot EX](https://github.com/user-attachments/assets/edeae08b-57d5-4618-b342-4f2f726f94d0)
 
-### Good Characteristics
+### 4-1. Good Characteristics
 
 - **Emotional Support:** Offers empathetic responses and a sense of companionship  
 - **Personalization:** Adapts to user preferences and builds rapport over time  
 
-### Bad Characteristics
+### 4-2. Bad Characteristics
 
 - **Emotional Dependency:** May lead users to form unrealistic attachments to the AI  
 - **Bias Reinforcement:** Can reflect and reinforce users’ existing biases through repeated interactions
 
-### Real-World Case  
+### 4-3. Real-World Case  
 🔷 **[Reppley](https://reppley.com/)**
 - Reppley is a relationship-oriented chatbot that lets users create emotionally engaging companions based on their favorite characters or real-life relationships.
 
